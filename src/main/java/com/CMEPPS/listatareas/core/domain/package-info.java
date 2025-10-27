@@ -1,0 +1,1 @@
+package com.CMEPPS.listatareas.core.domain;
